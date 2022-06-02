@@ -24,7 +24,7 @@ An application to set time-block for improving productivity. This app will allow
 
 ## Images
 
-![Project Screenshot](./assets/images/Screenshot.png)
+![Project Screenshot](./assets/images/Screenshot.jpg)
 
 
 ## References
