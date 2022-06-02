@@ -2,7 +2,7 @@
 
 ## Live Application Link
 
-[Work Day Scheduler](https://andersonjaz.github.io/workday-scheduler/)
+[Work Day Scheduler Website](https://andersonjaz.github.io/workday-scheduler/)
 
 ## Description
 An application to set time-block for improving productivity. This app will allow you to easily plan your day and save/delete tasks.
